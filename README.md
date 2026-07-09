@@ -1,5 +1,5 @@
 👋 ¡Hola!
-Soy Ing. Dennis Oliver Saravia, estudiante y apasionado por el desarrollo de software.
+Soy Ing. Pamela Tudela, estudiante y apasionado por el desarrollo de software.
 Actualmente estoy fortaleciendo mis conocimientos en Git y GitHub, aprendiendo a gestionar proyectos con control de versiones y aplicando buenas prácticas durante el desarrollo.
 ---
 📚 Actualmente aprendiendo
